@@ -1,0 +1,15 @@
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\bin\Debug\net6.0\10.DesafioAliquota.exe
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\bin\Debug\net6.0\10.DesafioAliquota.deps.json
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\bin\Debug\net6.0\10.DesafioAliquota.runtimeconfig.json
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\bin\Debug\net6.0\10.DesafioAliquota.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\bin\Debug\net6.0\10.DesafioAliquota.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.AssemblyInfo.cs
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\refint\10.DesafioAliquota.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\10.DesafioAliquota.genruntimeconfig.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\10.DesafioAliquota\obj\Debug\net6.0\ref\10.DesafioAliquota.dll

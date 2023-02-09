@@ -1,0 +1,15 @@
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\bin\Debug\net6.0\P12.CalculaPoupança2.exe
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\bin\Debug\net6.0\P12.CalculaPoupança2.deps.json
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\bin\Debug\net6.0\P12.CalculaPoupança2.runtimeconfig.json
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\bin\Debug\net6.0\P12.CalculaPoupança2.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\bin\Debug\net6.0\P12.CalculaPoupança2.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.AssemblyInfo.cs
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\refint\P12.CalculaPoupança2.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\P12.CalculaPoupança2.genruntimeconfig.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P12.CalculaPoupança2\obj\Debug\net6.0\ref\P12.CalculaPoupança2.dll

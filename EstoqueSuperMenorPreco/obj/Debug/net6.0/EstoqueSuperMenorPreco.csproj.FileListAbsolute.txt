@@ -1,0 +1,5 @@
+C:\Users\joyce\source\repos\EstoqueSuperMenorPreco\EstoqueSuperMenorPreco\obj\Debug\net6.0\EstoqueSuperMenorPreco.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\EstoqueSuperMenorPreco\EstoqueSuperMenorPreco\obj\Debug\net6.0\EstoqueSuperMenorPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\EstoqueSuperMenorPreco\EstoqueSuperMenorPreco\obj\Debug\net6.0\EstoqueSuperMenorPreco.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\EstoqueSuperMenorPreco\EstoqueSuperMenorPreco\obj\Debug\net6.0\EstoqueSuperMenorPreco.AssemblyInfo.cs
+C:\Users\joyce\source\repos\EstoqueSuperMenorPreco\EstoqueSuperMenorPreco\obj\Debug\net6.0\EstoqueSuperMenorPreco.csproj.CoreCompileInputs.cache

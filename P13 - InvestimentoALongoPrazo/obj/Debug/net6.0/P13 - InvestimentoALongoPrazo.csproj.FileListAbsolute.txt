@@ -1,0 +1,15 @@
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\net6.0\P13 - InvestimentoALongoPrazo.exe
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\net6.0\P13 - InvestimentoALongoPrazo.deps.json
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\net6.0\P13 - InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\net6.0\P13 - InvestimentoALongoPrazo.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\bin\Debug\net6.0\P13 - InvestimentoALongoPrazo.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\refint\P13 - InvestimentoALongoPrazo.dll
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.pdb
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\P13 - InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\joyce\source\repos\AprendendoCSharp\P13 - InvestimentoALongoPrazo\obj\Debug\net6.0\ref\P13 - InvestimentoALongoPrazo.dll

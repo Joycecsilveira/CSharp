@@ -1,0 +1,15 @@
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\bin\Debug\net6.0\SuperMercado.exe
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\bin\Debug\net6.0\SuperMercado.deps.json
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\bin\Debug\net6.0\SuperMercado.runtimeconfig.json
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\bin\Debug\net6.0\SuperMercado.dll
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\bin\Debug\net6.0\SuperMercado.pdb
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.AssemblyInfo.cs
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.dll
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\refint\SuperMercado.dll
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.pdb
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\SuperMercado.genruntimeconfig.cache
+C:\Users\joyce\source\repos\SuperMercado\SuperMercado\obj\Debug\net6.0\ref\SuperMercado.dll
